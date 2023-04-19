@@ -34,5 +34,13 @@
 
 ## Baixar e instalar o projeto
 ```
+git clone https://github.com/AndreDalSantos/DailyDietIgniteNodeJSRocketseat.git
+```
 
+```
+cd DailyDietIgniteNodeJSRocketseat
+```
+
+```
+npm install
 ```
